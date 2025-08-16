@@ -25,6 +25,11 @@ It transforms raw data into meaningful, interactive visualizations that help dec
  ┣ 📜 README.md                   # Documentation
   ```
 ## 📸 Dashboard Preview
+
+  <p align="center">
+    <img src="firstreport.png" alt="Dashboard Screenshot" width="800"/>
+  </p>
+
 ## 🔑 Key Features
 - Interactive filtering by **categories & time periods**  
 - Visual breakdown of **sales, customers, and growth trends**  
@@ -46,3 +51,9 @@ It transforms raw data into meaningful, interactive visualizations that help dec
 - Improved **storytelling skills through data visualization**.  
 
 ---
+## 👨‍💻 Author
+
+**Golla Bhargava Teja**  
+
+- 🌐 [Projects](https://github.com/bhargavatejagolla)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)  
